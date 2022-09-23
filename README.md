@@ -3,14 +3,21 @@
 C Program to gauge client’s composing speed and to upgrade their composing speed
 
 The user gets to choose among:
+
 1) Start Typing
+
 2)View LeaderBoard
+
 3)Exit
 
 1) Start Typing
+
 The user can choose the difficulty level:
+
 1)Easy
+
 2)Intermediate
+
 3)Hard
 
 Depending on the previous input, we will open the .txt files using file pointers accordingly.
