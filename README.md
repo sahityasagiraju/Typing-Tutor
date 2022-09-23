@@ -3,7 +3,6 @@
 C Program to gauge client’s composing speed and to upgrade their composing speed
 
 The user gets to choose among:
-
 1) Start Typing
 
 2)View LeaderBoard
